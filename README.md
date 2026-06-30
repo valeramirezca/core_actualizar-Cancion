@@ -1,0 +1,1 @@
+Profes, revisando me di cuenta que lamentablemente no cargué el proyecto a Github cuando lo creé para esta core, como creí que lo había cargado seguí en vscode con la siguiente Core de eliminar canción. Por ésto, éste repositorio tiene la Core Eliminar Canción :(
